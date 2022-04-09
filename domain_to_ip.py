@@ -1,4 +1,5 @@
 #domain to ip converter
+&!/usr/bin/python3
 import socket #for connection to device
 import pyfiglet #for create banner
 from termcolor import colored #for colorfull banner
